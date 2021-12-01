@@ -1,0 +1,18 @@
+{
+  "address": "1234 Sunset Dr.",
+  "cost": 123456.78,
+  "pets": [
+    {
+      "name": "Rex",
+      "color": "red"
+    },
+    {
+      "name": "Woofy \"Big\" dog",
+      "color": "white"
+    },
+    {
+      "name" : " Bingo",
+      "color" :"Brown"
+    }
+  ]
+}
